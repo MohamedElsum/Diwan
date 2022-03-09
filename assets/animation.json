@@ -1,0 +1,204 @@
+   {
+        "traingle": {
+            "rotationTurns": [
+                {
+                    "time": 0,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 1,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "rotation": [
+                {
+                    "time": 0,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "circle_of_logo": {
+            "opacity": [
+                {
+                    "time": 0,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 1,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "vivus_typo_logo": {
+            "opacity": [
+                {
+                    "time": 0,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 0,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 1,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Line 1": {
+            "x": [
+                {
+                    "time": 0,
+                    "value": 153.5,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 153.5,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2000,
+                    "value": 534,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "y": [
+                {
+                    "time": 0,
+                    "value": 195,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 195,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2000,
+                    "value": 326,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    }
